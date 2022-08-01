@@ -1,1 +1,5 @@
 # Customerdata
+## Problem Statement 
+You are the Data Analyst working with the Customer Strategies department of a global broadband internet service provider. Of late, you have received heads up from the management about the Customers churning out of the service due to multiple reasons. As part of the requirement of the management you need to classify the customers into different segments so that specific business actions can be initiated. For example, from the list of customers if you could segment the customers who are happy with our service, customers who are NOT so happy with our service, customers to whom a higher revenue plan can be sold off etc., the team can initiate targeted efforts to each of the segment of customers differently so that we stop the churning customers, retain the existing happy customer and sell a higher revenue plan to customer who probably might buy it and many other segments that would make a valid business sense.
+## Data
+data was intially present in three excel sheets - 'Cost', 'Issues', 'Usage'.
